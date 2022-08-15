@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "esnext", // target 是目标的语法
+    "module": "esnext" // module 是编译后代码执行的模块系统
+  }
+}
